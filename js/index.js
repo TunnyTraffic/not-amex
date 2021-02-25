@@ -67,4 +67,4 @@ setTimeout(function(){
             loopCount: false, // number of loops, false = infinite
             callback: function(){ } // call function after typing is done
         });
-    }, 5100);
+    }, 5200);
