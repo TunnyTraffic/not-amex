@@ -1,6 +1,6 @@
 setTimeout(function(){
         $(".element0").typed({
-            strings: ["confirmpresence --user 'strnks'"],
+            strings: ["confirmskill --skill 'Prince2' --user 'dan'"],
             typeSpeed: 30, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
