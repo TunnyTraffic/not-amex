@@ -19,7 +19,7 @@ setTimeout(function(){
             loopCount: false, // number of loops, false = infinite
             callback: function(){ } // call function after typing is done
         });
-    }, 2000);
+    }, 3000);
 
 setTimeout(function(){
       $(".element2").css("display", "inherit");
@@ -31,7 +31,7 @@ setTimeout(function(){
           loopCount: false, // number of loops, false = infinite
           callback: function(){ } // call function after typing is done
       });
-  }, 2500);
+  }, 3500);
 
 setTimeout(function(){
         $(".element3").css("display", "inherit");
@@ -43,7 +43,7 @@ setTimeout(function(){
             loopCount: false, // number of loops, false = infinite
             callback: function(){ } // call function after typing is done
         });
-    }, 3200);
+    }, 4200);
 
 setTimeout(function(){
         $(".element4").css("display", "inherit");
@@ -55,7 +55,7 @@ setTimeout(function(){
             loopCount: false, // number of loops, false = infinite
             callback: function(){ } // call function after typing is done
         });
-    }, 3900);
+    }, 4900);
 
 setTimeout(function(){
         $(".element5").css("display", "inherit");
@@ -67,4 +67,4 @@ setTimeout(function(){
             loopCount: false, // number of loops, false = infinite
             callback: function(){ } // call function after typing is done
         });
-    }, 4500);
+    }, 5100);
