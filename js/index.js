@@ -1,6 +1,6 @@
 setTimeout(function(){
         $(".element0").typed({
-            strings: ["confirmskill --skill 'Prince2' --user 'dan'"],
+            strings: ["did I spend $8.88 on this shitty domain?"],
             typeSpeed: 30, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
@@ -48,7 +48,7 @@ setTimeout(function(){
 setTimeout(function(){
         $(".element4").css("display", "inherit");
         $(".element4").typed({
-            strings: ["Yup"],
+            strings: ["Nope"],
             typeSpeed: 30, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
