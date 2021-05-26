@@ -48,7 +48,7 @@ setTimeout(function(){
 setTimeout(function(){
         $(".element4").css("display", "inherit");
         $(".element4").typed({
-            strings: ["Nope"],
+            strings: ["Yup"],
             typeSpeed: 30, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
